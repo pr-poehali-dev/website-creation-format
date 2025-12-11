@@ -61,11 +61,11 @@ const Index = () => {
             </div>
 
             <h1 className="text-5xl md:text-7xl font-black leading-tight">
-              Кейс <span className="text-primary text-glow">Glaza.Help</span>
+              Кейс <span className="text-primary">Glaza.Help</span>
             </h1>
 
             <div className="text-4xl md:text-5xl font-bold text-white/90">
-              <span className="text-primary text-glow">4300+</span> leads / month
+              <span className="text-primary">4300+</span> leads / month
             </div>
 
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto">
